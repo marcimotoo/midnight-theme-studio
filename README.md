@@ -2,11 +2,11 @@
 
 **Midnight Mint**
 
-![Midnight Mint preview with JavaScript, HTML, and CSS examples](https://raw.githubusercontent.com/marcimotoo/midnight-mint/cf980a3815e18d309d9b1428db0a4447a8c74565/images/midnight-mint-preview.png)
+![Midnight Mint preview with JavaScript, HTML, and CSS examples](https://raw.githubusercontent.com/marcimotoo/midnight-theme-studio/cf980a3815e18d309d9b1428db0a4447a8c74565/images/midnight-mint-preview.png)
 
 **Midnight Mint Soft**
 
-![Midnight Mint Soft preview with JavaScript, HTML, and CSS examples](https://raw.githubusercontent.com/marcimotoo/midnight-mint/cc511d1c3c5852791bd68272978244c501c65439/images/midnight-mint-soft-preview.png)
+![Midnight Mint Soft preview with JavaScript, HTML, and CSS examples](https://raw.githubusercontent.com/marcimotoo/midnight-theme-studio/cc511d1c3c5852791bd68272978244c501c65439/images/midnight-mint-soft-preview.png)
 
 Illustrated previews with JavaScript, HTML, and CSS. Actual highlighting can vary by language extension.
 

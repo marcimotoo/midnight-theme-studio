@@ -2,14 +2,14 @@
   "name": "midnight-theme-studio",
   "displayName": "Midnight Theme Studio",
   "description": "Dark themes with clear syntax colors, mint accents, and vibrant or soft palettes.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "repository": {
     "type": "git",
-    "url": "https://github.com/marcimotoo/midnight-mint.git"
+    "url": "https://github.com/marcimotoo/midnight-theme-studio.git"
   },
-  "homepage": "https://github.com/marcimotoo/midnight-mint#readme",
+  "homepage": "https://github.com/marcimotoo/midnight-theme-studio#readme",
   "bugs": {
-    "url": "https://github.com/marcimotoo/midnight-mint/issues"
+    "url": "https://github.com/marcimotoo/midnight-theme-studio/issues"
   },
   "scripts": {
     "package": "vsce package --no-dependencies --out ."

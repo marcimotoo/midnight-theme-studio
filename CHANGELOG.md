@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.2
+
+- Correct repository, homepage, issue, and preview image links after the GitHub repository rename.
+- Theme colors remain unchanged.
+
 ## 1.0.1
 
 - Expand relevant Marketplace keywords and clarify the collection description.

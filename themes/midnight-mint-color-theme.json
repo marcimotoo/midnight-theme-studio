@@ -163,11 +163,11 @@
     "editor.findMatchHighlightBackground": "#ff3da518",
     "editor.findMatchBorder": "#ff3da5",
     "editorBracketHighlight.foreground1": "#00ff99",
-    "editorBracketHighlight.foreground2": "#ff3da5",
-    "editorBracketHighlight.foreground3": "#e5c779",
-    "editorBracketHighlight.foreground4": "#86c7e8",
-    "editorBracketHighlight.foreground5": "#c2a4e8",
-    "editorBracketHighlight.foreground6": "#efa675",
+    "editorBracketHighlight.foreground2": "#00ff99",
+    "editorBracketHighlight.foreground3": "#00ff99",
+    "editorBracketHighlight.foreground4": "#00ff99",
+    "editorBracketHighlight.foreground5": "#00ff99",
+    "editorBracketHighlight.foreground6": "#00ff99",
     "editorError.foreground": "#f0788b",
     "editorWarning.foreground": "#e5c779",
     "editorInfo.foreground": "#86c7e8",
@@ -822,7 +822,7 @@
         "string"
       ],
       "settings": {
-        "foreground": "#efa675",
+        "foreground": "#e8d49a",
         "fontStyle": ""
       }
     },
@@ -832,7 +832,7 @@
         "constant.numeric"
       ],
       "settings": {
-        "foreground": "#e5c779",
+        "foreground": "#86bfe8",
         "fontStyle": ""
       }
     },
@@ -842,7 +842,7 @@
         "constant.language"
       ],
       "settings": {
-        "foreground": "#c2a4e8",
+        "foreground": "#c5a9e3",
         "fontStyle": ""
       }
     },
@@ -865,7 +865,7 @@
         "constant.other"
       ],
       "settings": {
-        "foreground": "#e5c779",
+        "foreground": "#e7c779",
         "fontStyle": ""
       }
     },
@@ -875,7 +875,7 @@
         "variable.parameter"
       ],
       "settings": {
-        "foreground": "#afd1e5",
+        "foreground": "#82d4cf",
         "fontStyle": ""
       }
     },
@@ -883,10 +883,11 @@
       "name": "Theme Studio · Eigenschaften",
       "scope": [
         "variable.other.property",
+        "meta.object-literal.key",
         "support.type.property-name"
       ],
       "settings": {
-        "foreground": "#f378b8",
+        "foreground": "#e8b38b",
         "fontStyle": ""
       }
     },
@@ -897,7 +898,7 @@
         "support.function"
       ],
       "settings": {
-        "foreground": "#ff3da5",
+        "foreground": "#ee8db9",
         "fontStyle": ""
       }
     },
@@ -915,11 +916,12 @@
     {
       "name": "Theme Studio · Klassen",
       "scope": [
+        "entity.name.class",
         "entity.name.type.class",
         "support.class"
       ],
       "settings": {
-        "foreground": "#00ff99",
+        "foreground": "#82d4cf",
         "fontStyle": ""
       }
     },
@@ -981,7 +983,7 @@
         "entity.other.attribute-name"
       ],
       "settings": {
-        "foreground": "#86c7e8",
+        "foreground": "#e8b38b",
         "fontStyle": ""
       }
     },
@@ -1134,7 +1136,7 @@
     },
     {
       "settings": {
-        "foreground": "#ff3da5"
+        "foreground": "#e8b38b"
       },
       "scope": [
         "support.type.property-name.css",
@@ -1145,7 +1147,7 @@
     },
     {
       "settings": {
-        "foreground": "#efa675"
+        "foreground": "#c5a9e3"
       },
       "scope": [
         "support.constant.property-value.css",
@@ -1170,7 +1172,7 @@
     },
     {
       "settings": {
-        "foreground": "#86c7e8"
+        "foreground": "#e8b38b"
       },
       "scope": [
         "entity.other.attribute-name.html",
@@ -1203,23 +1205,28 @@
       ],
       "name": "Marcimoto · CSS variables"
     }
+    ,{
+      "name": "Theme Studio · CSS numeric and color values",
+      "scope": ["constant.other.color.rgb-value", "constant.other.rgb-value"],
+      "settings": { "foreground": "#86bfe8" }
+    }
   ],
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "namespace": "#86c7e8",
     "type": "#00ff99",
-    "class": "#00ff99",
+    "class": "#82d4cf",
     "enum": "#79e5b9",
     "interface": "#79e5b9",
     "struct": "#00ff99",
     "typeParameter": "#79e5b9",
-    "parameter": "#afd1e5",
+    "parameter": "#82d4cf",
     "variable": "#d7dfd9",
-    "property": "#f378b8",
+    "property": "#e8b38b",
     "enumMember": "#e5c779",
     "event": "#ff3da5",
-    "function": "#ff3da5",
-    "method": "#ff3da5",
+    "function": "#ee8db9",
+    "method": "#ee8db9",
     "macro": "#ff3da5",
     "keyword": "#00ff99",
     "modifier": "#00ff99",
@@ -1227,12 +1234,12 @@
       "foreground": "#91a798",
       "italic": true
     },
-    "string": "#efa675",
-    "number": "#e5c779",
+    "string": "#e8d49a",
+    "number": "#86bfe8",
     "regexp": "#f378b8",
     "operator": "#c5d2c9",
     "decorator": "#ff3da5",
-    "variable.readonly": "#e5c779",
+    "variable.readonly": "#e7c779",
     "*.deprecated": {
       "strikethrough": true
     }

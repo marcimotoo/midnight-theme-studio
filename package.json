@@ -1,8 +1,8 @@
 {
   "name": "midnight-theme-studio",
   "displayName": "Midnight Theme Studio",
-  "description": "Dark themes with clear syntax colors, mint accents, and vibrant or soft palettes.",
-  "version": "1.0.2",
+  "description": "Three dark themes with mint accents and carefully balanced syntax colors.",
+  "version": "1.1.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/marcimotoo/midnight-theme-studio.git"
@@ -37,14 +37,19 @@
   "contributes": {
     "themes": [
       {
+        "label": "Midnight Mint Soft",
+        "uiTheme": "vs-dark",
+        "path": "./themes/midnight-mint-soft-color-theme.json"
+      },
+      {
         "label": "Midnight Mint",
         "uiTheme": "vs-dark",
         "path": "./themes/midnight-mint-color-theme.json"
       },
       {
-        "label": "Midnight Mint Soft",
+        "label": "Midnight Mint Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/midnight-mint-soft-color-theme.json"
+        "path": "./themes/midnight-mint-dark-color-theme.json"
       }
     ]
   },

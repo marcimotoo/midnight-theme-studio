@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.1.0
+
+- Refresh syntax colors for JavaScript, HTML, CSS, and shared language rules.
+- Update Midnight Mint Soft with gentler syntax colors and a lighter editor background.
+- Add Midnight Mint Dark with a darker interface.
+
 ## 1.0.2
 
 - Correct repository, homepage, issue, and preview image links after the GitHub repository rename.

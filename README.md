@@ -1,5 +1,19 @@
 # Midnight Theme Studio
 
+Illustrated previews use colors from the theme files; actual highlighting may vary by language and settings.
+
+**Midnight Mint Soft**
+
+![Midnight Mint Soft preview](https://raw.githubusercontent.com/marcimotoo/midnight-theme-studio/main/images/midnight-mint-soft-v110-preview.png)
+
+**Midnight Mint**
+
+![Midnight Mint preview](https://raw.githubusercontent.com/marcimotoo/midnight-theme-studio/main/images/midnight-mint-v110-preview.png)
+
+**Midnight Mint Dark**
+
+![Midnight Mint Dark preview](https://raw.githubusercontent.com/marcimotoo/midnight-theme-studio/main/images/midnight-mint-dark-v110-preview.png)
+
 Three dark Visual Studio Code themes with signature mint accents and distinct, balanced syntax colors.
 
 - **Midnight Mint Soft** uses gentler complementary colors and a slightly lighter editor background.

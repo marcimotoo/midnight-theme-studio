@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.1.1
+
+- Add updated illustrated previews for all three theme variants.
+
 ## 1.1.0
 
 - Refresh syntax colors for JavaScript, HTML, CSS, and shared language rules.
